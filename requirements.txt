@@ -1,0 +1,4 @@
+Django>2
+djangorestframework
+django-rest-swagger
+python=3.6.5
