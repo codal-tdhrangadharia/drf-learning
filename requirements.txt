@@ -18,7 +18,7 @@ esprima==4.0.0.dev12
 idna==2.6
 Inflector==2.0.12
 itypes==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 libclang-py3==3.9.0
 Markdown==2.6.11
