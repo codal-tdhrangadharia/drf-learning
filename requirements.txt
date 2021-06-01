@@ -33,5 +33,5 @@ s3transfer==0.1.13
 simplejson==3.15.0
 six==1.11.0
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 zope.cachedescriptors==4.3.1
